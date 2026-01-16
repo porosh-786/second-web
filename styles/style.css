@@ -18,10 +18,18 @@
     border: none;
     border-radius: 5px;
 }
+.btn:hover{
+    background-color: seagreen;
+    border: 1px solid #ffff;
+}
 
 .btn-call {
     background-color: #FFFFFF;
     color: #F15B22;
+}
+a{
+    text-decoration: none;
+    color: #ffff;
 }
 
 #hero {
