@@ -17,6 +17,7 @@
     padding: 21px 30px;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn:hover{
     background-color: seagreen;
@@ -78,6 +79,9 @@ a{
     position: relative;
 }
 
+.failures-img img{
+    width: 569px;
+}
 .failures-heading {
     width: 416px;
     margin-top: 239px;
